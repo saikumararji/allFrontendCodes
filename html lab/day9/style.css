@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.f1{
+    color: red;
+    height: 100px;
+    width: 98%;
+    border: solid;
+    border-color: rgb(252, 2, 2);
+    padding-top: 20px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.f2{
+    color: green;
+    width: 98%;
+    border: solid;
+    border-color: red;
+    padding-top: 20px;
+    margin-left: 15px;
+    padding-bottom: 10px;
+}
+.f3{
+    color: blue;
+    width:15%;
+    border: solid;
+    border-color: red;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin-left: 15px;
+}
+.f4{
+    color: blue;
+    width:15%;
+    border: solid;
+    border-color: red;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.f5{
+    color: blue;
+    width: 16%;
+    border: solid;
+    border-color: red;
+    padding: 30px 40px;
+    margin: 15px;
+    margin-left: 25px;
+}
+.f6{
+    color: blue;
+    width:95%;
+    border: solid;
+    border-color: red;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin-left: 25px;
+}
+
+h1{
+    padding: 20px;
+}
+
+.box1{
+    height: 100px;
+    width: 200px;
+    color: white;
+    background-color: rgb(0, 128, 102);
+    text-align: center;
+    margin-left: 15px;
+}
+.box2{
+    height: 60px;
+    width: 50%;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    background-color: orange;
+    margin:5px auto;
+   
+}
+.box3{
+    height: 100px;
+    width: 95%;
+    color: white;
+    background-color: indigo;
+    justify-content:center ;
+    text-align: center;
+    padding-top: 20px;
+    margin: 15px;
+    margin-bottom: 200px;
+    margin-left: 40px;
+}

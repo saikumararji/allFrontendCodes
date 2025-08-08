@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.abt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 50px;
+}
+.abt p{
+    font-size: 20px;
+}
+.abt h2{
+    font-size: 50px;
+}
+.edu{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.ex{
+    border: 1px solid;
+    border-radius: 10px;
+}
+.ex1{
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.ex1>h4{
+    font-size: 24px;
+}
+.ed{
+    border: 1px solid;
+    border-radius: 10px;
+}
+.ed1{
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.ed1>h4{
+    font-size: 24px;
+}
+.para{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px 60px;
+}

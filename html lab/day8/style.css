@@ -1,0 +1,159 @@
+.sai{ 
+    
+    border: solid;
+    border-width: 2px;
+    border-color: blue;
+    padding: 10px;
+}
+.a{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+.b{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+.c{ font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+}
+.d{
+    font-family: 'Courier New', Courier, monospace;
+    color: orange;
+}
+.e{ font-family: Arial, Helvetica, sans-serif;
+    color: indigo;
+}
+
+#ss{
+    border: dashed;
+    border-width: 2px;
+    border-color: red;
+    padding: 10px;
+
+}
+#A{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+#B{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+#C{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+}
+#D{
+    font-family: 'Courier New', Courier, monospace;
+    color: orange;
+}
+#E{
+    font-family: Arial, Helvetica, sans-serif;
+    color: indigo;
+}
+#zayn{
+    border: dotted;
+    border-width: 2px;
+    border-color: red;
+    padding: 10px;
+
+}
+#s1{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+#s2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+#s3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+}
+#s4{
+    font-family: 'Courier New', Courier, monospace;
+    color: orange;
+}
+#s5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: indigo;
+}
+
+#kizie{
+    border: solid;
+    border-width: 2px;
+    border-color: orange;
+    padding: 10px;
+
+}
+#a1{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+#a2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+#a3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+}
+#a4{
+    font-family: 'Courier New', Courier, monospace;
+    color: orange;
+}
+#a5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: indigo;
+}
+#sham{
+    border: solid;
+    border-width: 2px;
+    border-color: rgb(54, 36, 4);
+    padding: 10px;
+
+}
+#j1{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+#j2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+#j3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+}
+#j4{
+    font-family: 'Courier New', Courier, monospace;
+    color: orange;
+}
+#j5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: indigo;
+}
+.first{
+    background-color: lightyellow;
+    font-style: italic;
+    padding: 5px 5px;
+    margin-top: 20px;
+}
+.second{
+    background-color: lightblue;
+    font-weight:bold ;
+    padding: 5px 5px;
+    margin-top: 20px;
+}
+.third{
+    background-color: lightgreen;
+    text-decoration: underline;
+    padding: 5px 5px;
+    margin-top: 20px;
+}
+.forth{
+    text-transform: uppercase;
+    background-color: lightcoral;
+    padding: 5px 5px;
+    margin-top: 20px;
+}

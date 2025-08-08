@@ -1,0 +1,127 @@
+.tttt{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(86, 87, 87);
+    display: block;
+    justify-items: center;
+    
+}
+h1{
+    color: rgb(71, 66, 66);
+    font-size: 50px;
+    margin-top: 50px;
+}
+h2{
+    color: rgb(97, 94, 92);
+    font-size: 50px;
+   padding: 20px;
+    margin-top: 50px;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+   gap:80px;
+}
+.box{
+    align-items: center;
+    box-sizing: border-box;
+    background-color: white;
+    text-align: center;
+    height: 200px;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+.basic{
+   
+    box-shadow: 0px 0px 2px grey;
+}
+.medium{
+    box-shadow: 0px 3px 5px 2px rgb(213, 218, 218);
+}
+.large{
+    
+    box-shadow: 0px 5px 10px 5px rgb(217, 220, 220);
+}
+.inset{
+    
+    box-shadow:inset 0px 0px 50px 10px grey;
+}.color{
+    
+    box-shadow: 0px 4px 15px 4px rgb(210, 241, 173);
+}
+.multi{
+    
+    box-shadow: -5px -4px 20px rgb(109, 118, 184),5px 5px 20px rgb(210, 125, 244) ;
+}
+
+
+.grad{
+    text-align: center;
+}
+.sai{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+.box{
+    text-align: center;
+}
+.b1{
+    
+    background-image: linear-gradient(to right, blue,lightblue);
+}
+.b2{
+    background-image: linear-gradient(to right, rgb(255, 106, 131),lightpink);
+}
+.b3{
+    background-image: linear-gradient(to top,rgb(212, 140, 166), rgb(196, 173, 173))
+}
+.b4{
+    background-image: radial-gradient(circle,orange,rgb(251, 88, 43));
+}
+.b5{
+    background: radial-gradient(ellipse,lightyellow,lightgreen);
+}
+.b6{
+    background-image: conic-gradient(lightblue,pink,lightblue,pink);
+}
+
+.avail{
+    text-align: center;
+    font-size: 48px;
+    color: rgb(97, 94, 92);
+}
+.sam{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+    gap: 50px;
+    padding: 100px;
+}
+.bk{
+    
+    border: dashed 2px;
+    border-radius: 10px;
+    height: 200px;
+    width: 300px;
+}
+.d{
+    margin: 10px;
+    
+}
+.h{
+    font-size: 24px;
+    color: green;
+    padding-left: 15px;
+}
+h5{
+    color: red;
+    font-size: 18px;
+    padding-left: 30px;
+}
+
